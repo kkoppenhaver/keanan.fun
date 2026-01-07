@@ -1,0 +1,41 @@
+# keanan.fun
+
+A personal portfolio showcasing a collection of side projects and creative experiments.
+
+![Screenshot](screenshot.png)
+
+## Projects
+
+### [Type Into The Void](https://typeintothevoid.com)
+Type your thoughts and watch them disappear. No save button, no judgement.
+
+### [crunch.fyi](https://crunch.fyi)
+Come see your GitHub project's future headlines and live out your VC-funded dreams.
+
+### [Good Ice Map](https://goodicemap.com)
+Find "good ice" wherever you may be, sourced and verified from the community.
+
+### [DomainSearch.bot](https://domainsearch.bot)
+Live domain availability for ChatGPT, Claude, and any MCP-compatible AI.
+
+## Tech Stack
+
+- Vanilla HTML, CSS, JavaScript
+- No build tools or frameworks
+- Google Fonts (Caveat, Patrick Hand)
+
+## Running Locally
+
+Just open `index.html` in your browser - no server required.
+
+## Design
+
+Hand-drawn sketch aesthetic with:
+- Dot-grid paper background
+- Custom SVG illustrations for each project
+- Staggered entrance animations
+- Hover effects with depth
+
+## Author
+
+Made by [Keanan](https://www.linkedin.com/in/keanankoppenhaver/)
