@@ -13,7 +13,7 @@ Type your thoughts and watch them disappear. No save button, no judgement.
 Come see your GitHub project's future headlines and live out your VC-funded dreams.
 
 ### [Good Ice Map](https://goodicemap.com)
-Find "good ice" wherever you may be, sourced and verified from the community.
+Find "good ice" wherever you may be, sourced and verified by the community.
 
 ### [DomainSearch.bot](https://domainsearch.bot)
 Live domain availability for ChatGPT, Claude, and any MCP-compatible AI.
