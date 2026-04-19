@@ -15,6 +15,9 @@ Come see your GitHub project's future headlines and live out your VC-funded drea
 ### [Good Ice Map](https://goodicemap.com)
 Find "good ice" wherever you may be, sourced and verified by the community.
 
+### [Five Mile Walk](https://fivemilewalk.com)
+Generate loop walking routes that start and end at the same spot. Hit your 10,000 steps without walking the same path twice.
+
 ### [DomainSearch.bot](https://domainsearch.bot)
 Live domain availability for ChatGPT, Claude, and any MCP-compatible AI.
 
