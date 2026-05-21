@@ -31,6 +31,8 @@ Live domain availability for ChatGPT, Claude, and any MCP-compatible AI.
 
 Just open `index.html` in your browser - no server required.
 
+Or run `./serve` (optionally `./serve <port>`, defaults to 8000) to start a local dev server at http://localhost:8000.
+
 ## Design
 
 Hand-drawn sketch aesthetic with:
