@@ -6,6 +6,9 @@ A personal portfolio showcasing a collection of side projects and creative exper
 
 ## Projects
 
+### [EveryDomain](https://everydomain.world)
+One name, every domain ending on Earth. Live availability across all 1,438 TLDs — and links to actually buy the open ones.
+
 ### [Type Into The Void](https://typeintothevoid.com)
 Type your thoughts and watch them disappear. No save button, no judgement.
 
